@@ -1,12 +1,1 @@
-{
-    "posts": {
-        "code": "0",
-        "message": "test",
-        "user": {
-            "id": "0001",
-            "email": "tihti123@gmail.com",
-            "department": "IT"
-        },
-        "time": "1594619301"
-    }
-}
+{"posts": {"code": "0","message": "test","user": {"id": "0001","email": "tihti123@gmail.com", "department": "IT"},"time": "1594619301" }}
